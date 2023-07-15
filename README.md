@@ -1,2 +1,2 @@
-# portfolio_practicum
-Projects completed during the training
+# Portfolio_practicum
+Some projects completed during the training
