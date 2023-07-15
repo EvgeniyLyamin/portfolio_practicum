@@ -1,6 +1,6 @@
 
 # **Оптимизация расходов металлургического комбината**
-[ipynb](steel_temperature.ipynb)       [html](https://htmlpreview.github.io/https://github.com/EvgeniyLyamin/portfolio_practicum/blob/main/melting_steel/steel_temperature.html#s8)
+[ipynb](steel_temperature.ipynb)     [html](https://htmlpreview.github.io/https://github.com/EvgeniyLyamin/portfolio_practicum/blob/main/melting_steel/steel_temperature.html#s8)
 ## Описание проекта
 Задача:<br> Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Нам необходимо построить модель, которая предскажет температуру стали.
 
