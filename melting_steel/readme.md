@@ -1,6 +1,6 @@
 
 # **Оптимизация расходов металлургического комбината**
-[ipynb](steel_temperature.ipynb)  
+[ipynb](steel_temperature.ipynb) </div> <div align="right">Проект завершен</div>
 ## Описание проекта
 Задача:<br> Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Нам необходимо построить модель, которая предскажет температуру стали.
 
@@ -56,7 +56,7 @@
  - исследовали мультиколлинеарность
  - подготовили данные к этапу моделирования
 3. **Выбор модели и тестирование:**
- - удалось подобрать модель: LGBMRegressor с гиперпараметрми:`objective='poisson', learning_rate=0.1, max_depth=2, n_estimators=450, random_state=rs, rs= np.random.RandomState(80523)`, MAE на тесте: 6.22
+ - удалось подобрать модель: LGBMRegressor с гиперпараметрми:`objective='poisson', learning_rate=0.1, max_depth=2, n_estimators=450, random_state=rs, rs=np.random.RandomState(80523)`, MAE на тесте: 6.22
  - провели анализ важности признков с помощью "shap"
 <kbd>
  <img src="ms_test_model.png" />
